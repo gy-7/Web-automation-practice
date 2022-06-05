@@ -20,16 +20,13 @@
 
 ### 使用步骤：
 
-如果使用的Edge浏览器，可以省略步骤1。
 
-:one: 先下载 [Edge Driver下载](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)  然后放到项目的utils/目录下面。如果使用其他浏览器，需要自行修改浏览器 Driver。
+:one: 先下载 [Edge Driver下载](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)  然后放到项目的utils/目录下面，【要找到自己浏览器匹配的版本】。如果使用其他浏览器，需要自行修改浏览器 Driver。
 
 :two: 运行main.py文件
 
 ### 测试结果
 ```powershell
-单元测试结果：
-
 ============================= test session starts =============================
 collecting ... collected 12 items
 
